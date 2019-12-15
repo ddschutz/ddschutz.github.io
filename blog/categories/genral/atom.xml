@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Genral | Fais donc ca !]]></title>
+  <link href="http://ddschutz.eu/blog/categories/genral/atom.xml" rel="self"/>
+  <link href="http://ddschutz.eu/"/>
+  <updated>2019-04-20T20:54:21+02:00</updated>
+  <id>http://ddschutz.eu/</id>
+  <author>
+    <name><![CDATA[Ddschutz]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Happy New Year]]></title>
+    <link href="http://ddschutz.eu/blog/2017/01/01/happy-new-year/"/>
+    <updated>2017-01-01T10:35:48+01:00</updated>
+    <id>http://ddschutz.eu/blog/2017/01/01/happy-new-year</id>
+    <content type="html"><![CDATA[<p>Bonne année 2017</p>
+
+<p>Toute l'équipe du blog, c'est à dire moi tout seul, vous souhaite une bonne année.</p>
+
+<p>2017 sera, je l'espere le retour de quelques articles cinéma ou autre.</p>
+
+<p>En effet depuis Octobre j'ai été très occupé à me battre contre des banquiers des assureurs et des notaires, qui se complaisent à ne rien faire dans leur fauteils de cuir. J'ai bataillé tous les jours pour avoir les divers papiers relatif à mon achat immobilier.
+Ceux qui me suivent sur twitter ou mes pauvres collègues de travail ont eu plus de détails.</p>
+
+<p>Toujours est il que 2017 est là, et j'espere, commencera bien pour moi comme pour vous.</p>
+
+<p>Je vous souhaite à vous chers auditeurs une très bonne année 2017</p>
+
+<p><img src="http://ddschutz2.free.fr/octopress/images/Bonne%20annee-DD-2017.jpg" alt="annee-2017" /></p>
+]]></content>
+  </entry>
+  
+</feed>

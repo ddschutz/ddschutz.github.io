@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: General | Fais donc ca !]]></title>
+  <link href="http://ddschutz.eu/blog/categories/general/atom.xml" rel="self"/>
+  <link href="http://ddschutz.eu/"/>
+  <updated>2019-04-20T20:54:21+02:00</updated>
+  <id>http://ddschutz.eu/</id>
+  <author>
+    <name><![CDATA[Ddschutz]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ail Bi-bac]]></title>
+    <link href="http://ddschutz.eu/blog/2017/08/04/ail-bi-bac/"/>
+    <updated>2017-08-04T23:09:32+02:00</updated>
+    <id>http://ddschutz.eu/blog/2017/08/04/ail-bi-bac</id>
+    <content type="html"><![CDATA[<p>De retour !</p>
+
+<p>Je ne vous ait pas abandonné rassurez vous. C’est juste que j’ai eu beaucoup à faire dans ma vie professionelle et personnelle. Alors le blog c’était pas ma priorité ces derniers temps.</p>
+
+<p>Mais je reviens vite avec des nouveaux articles, mais avant je vais faire un peu de promo pour un nouveau podcast : <a href="https://podcloud.fr/podcast/capteursdecran">Capteurs d’écran</a></p>
+
+<p>C’est un podcast qui parle de cinéma et de culture geek. A l’heure qu’il est déjà 2 épisodes sont disponibles, je vous laisse donc juger par vous même du podcast.</p>
+
+<p>Cinéma parce qu’on parle ensemble d’un film, on donne notre avis sur le film, son scénario, sa réalisation, ses acteurs. On se croirait au masque et la plume, enfin presque.
+Comme dans le masque et la plume nous ne sommes pas toujours d’accord.</p>
+
+<p>Dans cette équipe de choc on retrouve Madt, le cinéphile instigateur de ce projet, Flavien l’homme qui parle plus vite que son ombre, et phillipe mon amis possedant le plus de bandes dessinée.</p>
+
+<p>Je vous encourage a aller écouter les premiers épisodes, et à nous faire des retours. C'est avec des avis constructifs que l'on avance.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mastodon]]></title>
+    <link href="http://ddschutz.eu/blog/2017/04/30/mastodon/"/>
+    <updated>2017-04-30T10:09:59+02:00</updated>
+    <id>http://ddschutz.eu/blog/2017/04/30/mastodon</id>
+    <content type="html"><![CDATA[<p>Mastodon</p>
+
+<p>Je vous le dit tout de suite comme ça vous ne serez pas obligé de vous lire tout mon article :
+Mastodon ne tueras pas twitter</p>
+
+<p>En tous cas pas dans sa forme actuelle.</p>
+
+<h3>Principe</h3>
+
+<p>Je vous explique en 2 mots le principe. Je ne vais pas entrer dans les détails d’autres l’ont fait mieux que je ne pourrais le faire.</p>
+
+<p>En gros c’est un twitter décentralisé, ça veut dire que ce n’est pas hébergé juste sur un serveur mais qu’il y a plein de serveurs qui communiquent entre eux. On verra plus bas pourquoi c’est mieux.</p>
+
+<p>On se retrouve donc avec un fil comme sur twitter sur lequel les messages des utilisateurs que l’on suit s’affichent. Un second fil avec ses notifications, jusque-là rien de fou.
+Et une 3ème colonne qui varie, elle affiche les profils des gens sur lequel on clique ou affiche le message et ses réponses. Mais surtout affiche les 2 fils inédit à Mastodon.
+Le fil public local : c’est tous les messages des gens qui sont sur votre serveur. (D’où le fait de bien choisir son serveur)
+Le fil public global : c’est un peu plus complexe, en gros c’est le fil de votre serveur et de tous les serveurs des gens que vous suivez.
+C’est un peu plus complexe mais entrer dans le détail ici ne servirait à rien.</p>
+
+<h3>Pourquoi c’est bien</h3>
+
+<p>C’est bien parce que ce n’est pas un seul serveur, et que du coup la censure d’une autorité unique américaine n’a pas de prise sur tout le système.</p>
+
+<p>C’est chaque modérateur de chaque instance qui peut bloquer quelqu’un. Du coup sur ton instance tu ne verras pas les messages des gens nocifs bloqué par ton instance. Ça donne une meilleure réactivité pour bloquer les indésirables.</p>
+
+<p>Ça permet aussi de s’inscrire sur une instance “spécialisé” pour avoir dans son fil local que des messages d’un certain thème. Par exemple si on s’inscrit dans une instance “pointdecroix.com” pour les fans de point de croix, vous n’aurez dans votre fil local que des messages des gens parlant de point de croix.</p>
+
+<h3>Pourquoi ça ne tuera pas twitter</h3>
+
+<p>Pour le moment tout est beau sur Mastodon, il n’y a que des utopistes et des geek.
+Oui l’interface n’est pas aussi douce que twitter c’est un peu brut, mais ça fonctionne. Donc ce n’est pas très avenant donc Mme Michu ne va pas créer un compte Mastodon.</p>
+
+<p>Il faut choisir son instance, laquelle choisir ? Il faut lire les règles de l’instance pour voir si elle nous correspond. Ou alors on choisit une grosse instance pour avoir plus de vie dans son fil local au détriment d’une instance spécialisée.</p>
+
+<p>Car oui il faut lire les règles car les modérateurs de l’instance peuvent vous bannir. Par exemple vous êtes inscrit sur une instance “pointdecroix.com” qui interdit de parler de tricot ! Si vous n’avez pas lu ça et que vous commencez à parler tricot en plus du point de croix et bien on peut vous bannir. Le seul juge est le gérant de l’instance et ses modérateurs.</p>
+
+<p>Et donc dans le choix de l’instance si vous choisissez une instance avec 200 personnes on pourra bien surveiller les messages et bannir les indésirables. Avec une instance à 20 000 utilisateurs la modération est déjà plus difficile.
+C’est pour ça que pour le moment ça marche les instances ne sont pas trop grandes (certains limitent même les inscriptions) et les gens sont de bonne compositions. Mais quand débarqueront les trolls et les haineux en tous genres et qu’il faudra bannir des gens toutes les 5 minutes parce qu’ils ne respectent pas les règles, ça sera plus difficile.</p>
+
+<p>Et puis une instance ça à un cout. En particulier le serveur de stockage des données (et des images publiées) et qui va payer. Ce qui se fait en ce moment c’est que c’est le créateur de l’instance qui paye et qui demande des dons volontaires pour l’aider.
+Mais si les gens ne payent pas, ou si le créateur de l’instance souhaite fermer son serveur, il vous faudra alors changer d’instance.</p>
+
+<p>Beaucoup de choses liées à la décentralisation me font croire que ça ne tuera pas twitter.
+Certains utilisateurs vont faire la migration mais le gros du public n’est pas prêt au changement et Mastodon n’y survivrait pas, du moins pas dans sa forme actuelle.</p>
+
+<p>Je ne vous dis pas de ne pas y aller, je vous dis qu’il s’agit d’inventer un nouveau média avec des codes et des usages différents. Comme Facebook et twitter sont différents, Mastodon et twitter sont différents. La base reste la même, des messages courts visible par des abonnés mais la forme change.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sauvons Un Blog]]></title>
+    <link href="http://ddschutz.eu/blog/2015/07/04/sauvons-un-blog/"/>
+    <updated>2015-07-04T23:37:31+02:00</updated>
+    <id>http://ddschutz.eu/blog/2015/07/04/sauvons-un-blog</id>
+    <content type="html"><![CDATA[<p>Voilà on en arrive au passage douloureux, le passage quémandage à la Wikipédia</p>
+
+<p>Cela va bientôt faire 1 an que ce blog existe (ddschutz V3) et la nouveauté de cette version ?  Outre le fait que je m'efforce à poster un article par semaine, un nom de domaine ! Le fameux ddschutz.eu</p>
+
+<p>Mais voilà un nom de domaine ce n’est pas gratuit.
+L’an dernier j’ai profité d’une promo pour les noms de domaines à 1.5€ mais cette année je vais devoir payer le prix fort 12€</p>
+
+<p>Alors je sais que ce n’est pas grand-chose, et je le payerai de toutes façons, mais si vous aimez bien ce que je raconte ici, que vous voulez m’encourager dans ma vision de tout est gratuit sur le net vous pouvez bien donner 1€.</p>
+
+<p>Oui car moi je suis comme ça je n’aime pas payer des trucs sur le net, par contre j’aime bien que l’on me donne des trucs quand je fais quelque chose sur le net.</p>
+
+<p>Alors comme disait Wikipédia, si chacun donne 1€ mon site sera financé.</p>
+
+<p>Mais vous pouvez aussi donner moins 0.01€ ca me ferai plaisir, même si avec ca sur PayPal je vais pas faire grand-chose.</p>
+
+<p>Sinon vous pouvez juste me traitez d’avare et d’égoïste dans les commentaires, de me dire que si je donnais ces 12€ à la Grèce ça les aiderait surement beaucoup. De me dire que des gens meurent de faim dans le monde.</p>
+
+<p>Oui peut-être, mais quand je vois les Kickstarter qui récoltent des millions chez les internautes, je me dis que votre petite lecture du lundi matin sur mon blog vaut bien 0.01€.</p>
+
+<p>Je vous promets que je n’aurais pas de retard dans la livraison du produit comme les kickstarter. Et c’est facile étant donné qu’il n’y a pas de produit.</p>
+
+<p>Je ne vais pas faire un patréon car je n’ai pas besoin d’argent tous les mois, juste ponctuellement pour payer mon nom de domaine.</p>
+
+<p>Alors à votre bon cœur messieurs dames&hellip;</p>
+
+<p><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
+<input type="hidden" name="cmd" value="_s-xclick"></p>
+
+<table>
+<tr><td><input type="hidden" name="on0" value="type d'aide">type d'aide</td></tr><tr><td><select name="os0">
+    <option value="micro-soutien">micro-soutien €0,01 EUR</option>
+    <option value="mini-soutien">mini-soutien €0,50 EUR</option>
+    <option value="soutien">soutien €1,00 EUR</option>
+    <option value="blague à">blague à €2,00 EUR</option>
+    <option value="i love your work">i love your work €5,00 EUR</option>
+    <option value="grand prince">grand prince €12,00 EUR</option>
+</select> </td></tr>
+</table>
+
+
+<p><input type="hidden" name="currency_code" value="EUR">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+<input type="image" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !">
+<img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
+</form></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bienvenue]]></title>
+    <link href="http://ddschutz.eu/blog/2014/08/27/bienvenue/"/>
+    <updated>2014-08-27T00:10:31+02:00</updated>
+    <id>http://ddschutz.eu/blog/2014/08/27/bienvenue</id>
+    <content type="html"><![CDATA[<p>Mais qu'est-ce que c'est que ça ?</p>
+
+<p>Non vous ne rêvez pas !  C’est encore un blog de ddschutz.</p>
+
+<h2>Mais pourquoi donc ??</h2>
+
+<p>Pour polluer le web avec encore plus de conneries ?? Oui surement.</p>
+
+<p>En vérité, mon ancien <a href="http://ddschutz.free.fr/new/index.php">Blog</a> (sous
+dotclear) était un peu corrompu de spams dans les commentaires. Pour arranger ça
+il aurait fallu (et j'ai tenté de le faire) ajouter un plugin anti spam avec un
+captcha (ou Kamchakta je sais plus). Seulement voilà pour se faire je devais
+avoir la dernière version de <a href="http://fr.dotclear.org/">Dotclear</a>.</p>
+
+<p>Donc me voilà partit. Sauvegarde du blog et de la base de données, mise à jour
+du blog.  Je visite le nouveau blog et là, le drame des lignes de code avec des
+gros &ldquo;error &hellip;.&rdquo; qui apparaissent en haut et en bas de la page, je clique sur
+un article les même lignes de code en haut et en bas. la barre de droite avec
+les liens et autres est incomplète.</p>
+
+<p>En gros la nouvelle mouture avait quelques problèmes avec l'ancienne base de
+données. Et moi les bases de données, ce n’est pas trop mon truc.  Je n'ai
+aucune connaissance en programmation. Enfin j'ai appris quelques bases en
+langage BASIC en 1993 qui me servent toujours à comprendre des choses. (J'avais
+une passion à l'époque pour la fonction GOTO)</p>
+
+<p>Donc le langage HTML est incompréhensible, le PHP encore pire et le CSS il va
+falloir que je m'y mette parce que ce blog utilise aussi les CSS. Enfin quand je
+dis que je ne comprends rien c'est un peu faux. Je sais reconnaitre du html et
+je sais même le bidouiller.</p>
+
+<p>Oui bidouiller est le terme exact. Si tu écris couramment en HTML va faire un
+tour sur ma <a href="http://ddschutz.free.fr">page générale</a> et pleure.</p>
+
+<p>Tout ça pour dire que les bases de données c'est la plaie à gérer pour moi. Donc
+quand j'ai entendu parler des blogs statiques j'ai sauté sur l'occasion.</p>
+
+<h2>Mais que vont devenir tes anciens blogs ?</h2>
+
+<p>Alors, je tiens à rassurer les joueurs de jeux de sociétés <a href="http://manalaspielt.blogspot.fr/">jeux et
+flammekueche</a> continue avec 1 article tous
+les 2 mois en moyenne.</p>
+
+<p>Concernant mon ancien blog [<a href="http://ddschutz.free.fr/new/index.php">Fais Donc
+Ca]</a> il va rester dans l'état,
+toujours à la même adresse mais sans plus d'évolution. Je ne vais pas tenter une
+importation qui va me prendre beaucoup trop de temps pour récupérer les
+critiques cinéma que j'ai faites.</p>
+
+<p>Concernant ma participation à des podcasts ça ne change rien. Je continue mes
+chroniques pour le podcast <a href="http://podcast.proxi-jeux.fr/">proxijeux</a>. 3
+minutes de chronique par mois ça devrait aller.</p>
+
+<p>S’ils tolèrent encore mes dossiers et news improbables je serais encore dans
+<a href="http://www.improbablepodcast.fr/">l'improbable podcast</a></p>
+
+<p>Et si vous êtes un robot et que vous comprenez tous ces caractères un peu
+étrange vous pouvez même aller sur mon 1er blog doclear
+<a href="http://ddschutz.free.fr/200708/">Albator1664</a> qui là encore témoigne de mon
+incapacité flagrante à mettre un jour un blog dotclear et à récupérer une base
+de donnée.</p>
+
+<h2>Et pour finir&hellip;</h2>
+
+<p>Je voudrais remercier <a href="http://fr.dotclear.org/">dotclear</a> pour sa plateforme
+de création de blog qui marche bien, qui s'installe facilement (l'aide est très
+bien faite) mais qui demande une petite connaissance des base de donnée pour la
+mise à jour.</p>
+
+<p>Je remercie <a href="http://octopress.org/">octopress</a> la plateforme que j'utilise
+actuellement. Leur aide est vraiment bien faite. Et tant qu'on est dans l'aide.
+si vous voulez créer un blog statique avec octopress je vous conseille les
+articles du blog de <a href="http://blog.rolandl.fr/categories/octopress/">Ludovic
+Roland</a>qui suis pas à pas et en
+FRANCAIS l'installation de octopress.</p>
+]]></content>
+  </entry>
+  
+</feed>
